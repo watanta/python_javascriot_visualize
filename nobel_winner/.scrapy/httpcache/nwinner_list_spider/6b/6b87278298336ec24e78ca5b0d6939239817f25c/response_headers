@@ -1,0 +1,22 @@
+Date: Thu, 28 Mar 2019 09:14:49 GMT
+Content-Type: text/html; charset=UTF-8
+Server: mw1264.eqiad.wmnet
+X-Content-Type-Options: nosniff
+P3P: CP="This is not a P3P policy! See https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:CentralAutoLogin/P3P for more info."
+X-Powered-By: HHVM/3.18.6-dev
+Content-Language: ja
+Last-Modified: Wed, 27 Mar 2019 17:13:13 GMT
+Backend-Timing: D=169614 t=1553709528800156
+Vary: Accept-Encoding,Cookie,Authorization,X-Seven
+Content-Encoding: gzip
+X-Varnish: 753659531, 739170768, 611165873 479283274, 831001364 497668652
+Via: 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1)
+Age: 54959
+X-Cache: cp1089 pass, cp2012 pass, cp5010 hit/1, cp5012 hit/1
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: ns=0;page_id=947873;WMF-Last-Access=28-Mar-2019;WMF-Last-Access-Global=28-Mar-2019;https=1
+X-Client-Ip: 126.12.43.154
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Accept-Ranges: bytes

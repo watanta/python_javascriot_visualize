@@ -1,0 +1,24 @@
+Date: Thu, 28 Mar 2019 09:33:29 GMT
+Content-Type: text/html; charset=utf-8
+Server: mw1269.eqiad.wmnet
+X-Powered-By: HHVM/3.18.6-dev
+P3P: CP="This is not a P3P policy! See https://www.wikidata.org/wiki/Special:CentralAutoLogin/P3P for more info."
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+X-Content-Type-Options: nosniff
+Location: https://www.wikidata.org/wiki/Q189465
+Last-Modified: Thu, 28 Mar 2019 09:33:28 GMT
+Backend-Timing: D=38342 t=1553765608966701
+Vary: Accept-Encoding,X-Forwarded-Proto,Cookie,Authorization,X-Seven
+X-Varnish: 503353275, 267577997, 663035597, 842891630
+Via: 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1)
+Age: 0
+X-Cache: cp1077 pass, cp2010 pass, cp5012 pass, cp5012 pass
+X-Cache-Status: pass
+Server-Timing: cache;desc="pass"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+Set-Cookie: WMF-Last-Access=28-Mar-2019;Path=/;HttpOnly;secure;Expires=Mon, 29 Apr 2019 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=28-Mar-2019;Path=/;Domain=.wikidata.org;HttpOnly;secure;Expires=Mon, 29 Apr 2019 00:00:00 GMT
+Set-Cookie: GeoIP=JP:13:Higashinakano:35.71:139.68:v4; Path=/; secure; Domain=.wikidata.org
+X-Analytics: https=1;nocookies=1
+X-Client-Ip: 126.12.43.154
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
