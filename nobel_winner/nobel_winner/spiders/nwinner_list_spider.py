@@ -9,6 +9,14 @@ class NwinnerListSpiderSpider(scrapy.Spider):
     allowed_domains = ['https://ja.wikipedia.org/wiki/']
     start_urls = ['https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%A5%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E%E5%8F%97%E8%B3%9E%E8%80%85']
 
+    custom_settings = {
+        'ITEM_PIPELINES': {'nobel_winner.pipelines.DropNonPersons': 1,
+                           'nobel_winner.pipelines.MongoDBPipeline': 2},
+        'MONGODB_SERVER': 'localhost',
+        'MONGODB_PORT': 27017,
+        'MONGODB_DB': 'nobel_prize',
+        'MONGODB_COLLECTION': 'winners'
+    }
     def parse(self, response):
         h4s = response.xpath('//h4')
         for h4 in h4s:

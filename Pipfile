@@ -7,9 +7,9 @@ verify_ssl = true
 
 [packages]
 scrapy = "*"
-
 pillow = "*"
 flask = "*"
+pymongo = "*"
 
 [requires]
 python_version = "3.6"
