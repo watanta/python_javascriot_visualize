@@ -90,4 +90,6 @@ HTTPCACHE_ENABLED = True
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-ITEM_PIPELINES = {'nodel_winner.pipelines.DropNonPersons': 1}
+ITEM_PIPELINES = {#'nobel_winner.pipelines.DropNonPersons': 2,
+                  'nobel_winner.pipelines.NobelImagesPipeline':1}
+IMAGES_STORE = 'images'

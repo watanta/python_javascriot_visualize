@@ -1,0 +1,20 @@
+Date: Fri, 29 Mar 2019 16:09:15 GMT
+Content-Type: image/jpeg
+X-Object-Meta-Sha1Base36: mk2zn9p9kn8tihmuvmhgry7xlym4zxt
+Last-Modified: Mon, 15 Feb 2016 03:49:28 GMT
+Etag: 195fbdb4f0836760633fb747801793bf
+X-Timestamp: 1455508167.60732
+X-Trans-Id: tx950f35714bff40c2a1245-005c9db052
+X-Varnish: 184947413, 85152018 36376317, 284223149
+Via: 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1)
+Age: 37593
+X-Cache: cp2026 pass, cp5001 hit/1, cp5002 miss
+X-Cache-Status: hit-local
+Server-Timing: cache;desc="hit-local"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: https=1;nocookies=1
+X-Client-Ip: 126.12.43.154
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

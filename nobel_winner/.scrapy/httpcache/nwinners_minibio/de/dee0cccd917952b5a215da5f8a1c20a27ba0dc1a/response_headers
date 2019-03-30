@@ -1,0 +1,21 @@
+Date: Fri, 29 Mar 2019 16:09:03 GMT
+Content-Type: image/jpeg
+X-Object-Meta-Sha1Base36: ks5wv2bfuhw3psvq8xt646x4gfiv4xs
+Content-Disposition: inline;filename*=UTF-8''John_Cornforth_and_Rita_Harradence.jpg
+Last-Modified: Thu, 13 Apr 2017 21:07:06 GMT
+Etag: 89ae15a323e1c99388a805d45753f21e
+X-Timestamp: 1492117625.02742
+X-Trans-Id: tx4082469ae04d40ceaba4e-005c9c6f1e
+X-Varnish: 231536865, 185950060 33492935, 286051313
+Via: 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1)
+Age: 119808
+X-Cache: cp2014 pass, cp5005 hit/2, cp5002 miss
+X-Cache-Status: hit-local
+Server-Timing: cache;desc="hit-local"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: https=1;nocookies=1
+X-Client-Ip: 126.12.43.154
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

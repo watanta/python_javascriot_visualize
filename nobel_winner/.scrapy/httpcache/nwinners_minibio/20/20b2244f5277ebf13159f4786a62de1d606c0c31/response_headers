@@ -1,0 +1,21 @@
+Date: Fri, 29 Mar 2019 16:09:14 GMT
+Content-Type: image/jpeg
+X-Object-Meta-Sha1Base36: k3k4t2u102bissh9xl0wzoxzjlklx7d
+Content-Disposition: inline;filename*=UTF-8''Jan_Tinbergen_1982.jpg
+Last-Modified: Mon, 25 Jul 2016 22:10:21 GMT
+Etag: 9da82ba71fb57356bca2e880cf9ac220
+X-Timestamp: 1469484620.57705
+X-Trans-Id: txbbbbf75cf2204f2d85067-005c9db754
+X-Varnish: 191399574 185679235, 81851976 79409334, 289089977 206840737
+Via: 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1)
+Age: 35797
+X-Cache: cp2026 hit/1, cp5003 hit/1, cp5002 hit/2
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: https=1;nocookies=1
+X-Client-Ip: 126.12.43.154
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

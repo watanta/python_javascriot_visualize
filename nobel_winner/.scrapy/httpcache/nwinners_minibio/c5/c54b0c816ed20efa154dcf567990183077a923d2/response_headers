@@ -1,0 +1,21 @@
+Date: Fri, 29 Mar 2019 16:09:14 GMT
+Content-Type: image/jpeg
+X-Object-Meta-Sha1Base36: 9hzbqgjhwpbpnxwfyxg0x9wfmat6lpk
+Content-Disposition: inline;filename*=UTF-8''Richard_E._Taylor.jpg
+Last-Modified: Sun, 30 Oct 2016 10:57:35 GMT
+Etag: 22a556eb707ec9d102e3de30ef22c38b
+X-Timestamp: 1477825054.53319
+X-Trans-Id: txf84e7f9fc9a3431e9e186-005c9e432a
+X-Varnish: 219028114, 194529271, 289089974
+Via: 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1)
+Age: 0
+X-Cache: cp2026 pass, cp5004 miss, cp5002 miss
+X-Cache-Status: miss
+Server-Timing: cache;desc="miss"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: https=1;nocookies=1
+X-Client-Ip: 126.12.43.154
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

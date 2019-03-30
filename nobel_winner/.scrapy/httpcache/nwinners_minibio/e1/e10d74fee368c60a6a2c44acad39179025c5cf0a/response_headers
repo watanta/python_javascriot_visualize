@@ -1,0 +1,21 @@
+Date: Fri, 29 Mar 2019 16:09:09 GMT
+Content-Type: image/jpeg
+X-Object-Meta-Sha1Base36: pwq2okqemppbery12i10v0z5ojhj3nc
+Content-Disposition: inline;filename*=UTF-8''Prof_Ertl-Portrait.jpg
+Last-Modified: Mon, 09 May 2016 13:19:39 GMT
+Etag: d226bed3d66f1bd401de8d5a68d43ab6
+X-Timestamp: 1462799978.91419
+X-Trans-Id: tx252ea43c96d440c4a54cb-005c9db78e
+X-Varnish: 275402595, 73668623, 276250223 168374890
+Via: 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1)
+Age: 35735
+X-Cache: cp2017 pass, cp5003 miss, cp5002 hit/1
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: https=1;nocookies=1
+X-Client-Ip: 126.12.43.154
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

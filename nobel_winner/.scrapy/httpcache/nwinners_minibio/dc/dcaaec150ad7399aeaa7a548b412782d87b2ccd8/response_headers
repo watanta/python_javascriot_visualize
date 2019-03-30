@@ -1,0 +1,21 @@
+Date: Fri, 29 Mar 2019 16:09:23 GMT
+Content-Type: image/jpeg
+X-Object-Meta-Sha1Base36: nsqjcczl2ylmp06z6eaqkxy9o2a9b43
+Content-Disposition: inline;filename*=UTF-8''Peter_Agre.jpg
+Last-Modified: Thu, 30 Mar 2017 23:38:00 GMT
+Etag: a51dfa9b20280543b930a89934ddca23
+X-Timestamp: 1490917079.75917
+X-Trans-Id: tx50eae893f5a94a98a1312-005c9d00db
+X-Varnish: 162188062 159488947, 142364608 83458644, 289418024 180113095
+Via: 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1)
+Age: 82519
+X-Cache: cp2011 hit/2, cp5005 hit/3, cp5002 hit/2
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: https=1;nocookies=1
+X-Client-Ip: 126.12.43.154
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

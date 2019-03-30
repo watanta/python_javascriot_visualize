@@ -8,5 +8,8 @@ verify_ssl = true
 [packages]
 scrapy = "*"
 
+pillow = "*"
+flask = "*"
+
 [requires]
 python_version = "3.6"

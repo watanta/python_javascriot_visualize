@@ -1,0 +1,21 @@
+Date: Fri, 29 Mar 2019 16:09:21 GMT
+Content-Type: image/jpeg
+X-Object-Meta-Sha1Base36: fjt1otgtk4gm1ghp39emv2742ogy9bn
+Content-Disposition: inline;filename*=UTF-8''David_J._Wineland_3_2012.jpg
+Last-Modified: Sun, 16 Oct 2016 02:28:20 GMT
+Etag: e39448b523e1531d2da4c3870b8f9fa2
+X-Timestamp: 1476584899.81721
+X-Trans-Id: tx459166cd62d54306a6340-005c9c8305
+X-Varnish: 238783043, 187863111 35316445, 287200294
+Via: 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1)
+Age: 114732
+X-Cache: cp2014 pass, cp5005 hit/2, cp5002 miss
+X-Cache-Status: hit-local
+Server-Timing: cache;desc="hit-local"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: https=1;nocookies=1
+X-Client-Ip: 126.12.43.154
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

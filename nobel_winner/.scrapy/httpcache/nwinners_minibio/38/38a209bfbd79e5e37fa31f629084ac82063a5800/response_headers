@@ -1,0 +1,9 @@
+Date: Fri, 29 Mar 2019 15:37:11 GMT
+Server: Varnish
+X-Varnish: 284603411
+X-Cache: cp5002 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=29-Mar-2019;Path=/;HttpOnly;secure;Expires=Tue, 30 Apr 2019 12:00:00 GMT
+X-Client-Ip: 126.12.43.154
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Halld%C3%B3r_Kiljan_Laxness_1955.jpg/200px-Halld%C3%B3r_Kiljan_Laxness_1955.jpg

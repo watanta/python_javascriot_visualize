@@ -1,0 +1,21 @@
+Date: Fri, 29 Mar 2019 16:09:07 GMT
+Content-Type: image/jpeg
+X-Object-Meta-Sha1Base36: bhj03enum7cg62wezcrboavc2ttnzvp
+Content-Disposition: inline;filename*=UTF-8''Tasuku_Honjo_201311.jpg
+Last-Modified: Wed, 13 Apr 2016 15:54:07 GMT
+Etag: 0a55f1b4b56d37a6717286eb760d5ddd
+X-Timestamp: 1460562846.29319
+X-Trans-Id: txe0ae61196c6d46c0a2fe0-005c9d7374
+X-Varnish: 209705548, 119477349 112197508, 282160595 111737381
+Via: 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1)
+Age: 53166
+X-Cache: cp2005 pass, cp5005 hit/3, cp5002 hit/49
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: https=1;nocookies=1
+X-Client-Ip: 126.12.43.154
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes
